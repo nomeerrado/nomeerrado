@@ -9,7 +9,7 @@
 
 <h3>Technical Skills</h3>
 
-<h4>Software</h4>
+<h4>Development</h4>
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
