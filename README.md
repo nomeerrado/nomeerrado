@@ -10,10 +10,6 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=nomeerrado&show_icons=true&count_private=true&theme=radical" />
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomeerrado&layout=compact&theme=radical" />
-
 <!---
 nomeerrado/nomeerrado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
