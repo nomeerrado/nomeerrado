@@ -5,7 +5,6 @@
 
 - 💻 I'm currently working on software development  
 - 🧠 I'm mastering my skills  
-- 🎮 I have interest initiate on game development  
 
 <h3>Technical Skills</h3>
 
